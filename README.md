@@ -1,4 +1,4 @@
-# Basic-data-scripts
+# 📈 Basic-data-scripts
 Welcome to the "Basic data scripts" repo. Here I will upload all the basic usefull scripts for scientific data analysis (plots, Monte Carlo, etc.). Have fun and don't be shy, ask questions ! If one my scripts is obsolete or not optimized, please tell me (and stay nice). Here you can learn how to :
 ## Plot
 - Plot a mathematical function [https://github.com/Haimagull/Basic-data-scripts/blob/main/plot_ln_2n.py](url)
