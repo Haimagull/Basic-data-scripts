@@ -34,7 +34,6 @@ ax2.set_ylabel(r'$log(n^2)$',color="red") #y label (idem)
 ax2.set_title(r'\'Evolution du logarithme en base 10 pour une varible au carr\'e) #title
 ax2.plot(n,lnn2,"red") #actually plotting
 
-
 fig.set_size_inches(7,5) #graph dimensions
 fig.set_dpi(200) #resolution (dot per inches)
 fig.legend([r"$ln(n^2)$"]) #a legend might be interesting if plotting multiple functions
